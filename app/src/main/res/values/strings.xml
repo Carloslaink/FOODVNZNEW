@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodVNZ</string>
+    <string name="StyleMapbox">mapbox://styles/aboscan/cl8brklbd002u14w1pngtbea3</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYWJvc2NhbiIsImEiOiJjbDlvcXVjZWgwMGJzM29xa2c5ZTI3b3pyIn0.-XNlBBwBIvA0B3-bQV8DfQ</string>
+</resources>
